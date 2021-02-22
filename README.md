@@ -4,4 +4,5 @@ Weapons Detection in very important task in surveillance system to improve the s
 - Pedestrian Detection
 - Skeleton Detection<br/>
 
-We implement the state of the art algorithm YOLOV3 for the detection of weapons.
+We implement the state of the art algorithm YOLOV3 for the detection of weapons.<br/>
+<img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/network.png" width="250">
