@@ -7,5 +7,5 @@ Weapons Detection in very important task in surveillance system to improve the s
 We implement the state of the art algorithm YOLOV3 for the detection of weapons.<br/>
 <img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/network.png" width="1500" height="300"><br/>
 <p align="center">
- **Basic Network Architecture**
+<strong>Basic Network Architecture</strong>
 </p>
