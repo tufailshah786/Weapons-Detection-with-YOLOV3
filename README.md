@@ -35,7 +35,7 @@ we have prepared the dataset in two variants. First one is the X-Aligned Dataset
 
 This dataset consist of total 7800 images of weapons. There are two classes included in our dataset one is "Gun" and other is "Pistol". The given Dataset contain total 5512 instances of "Gun" and 3739 instances of "Pistol". We have prepared the different formats of this dataset because each model have its own format of data for training. So the formats of different models are given below:
 
-### YOLO Format
+### I. YOLO Format
 
 In YOLO labeling format, a `.txt` file with the same name is created for each image file in the same directory. Each `.txt` file contains the annotations for the corresponding image file, that is object class, object coordinates, height and width.
 
@@ -54,7 +54,7 @@ The files will be shown like this:
 
 <img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/yolo.png" width="700" height="400"><br/><br/>
 
-### Pascal-VOC Format
+### II. Pascal-VOC Format
 Pascal-VOC is an XML file, in Pascal-VOC we create a file for each of the image in the dataset. Pascal VOC Bounding box:(xmin-top left, ymin-top left,xmax-bottom right, ymax-bottom right).
 
 <img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/pascal.png" width="300" height="500"><br/><br/>
