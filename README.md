@@ -31,7 +31,7 @@ You can test the image by using the following command:<br/>
 
 we have prepared the dataset in two variants. First one is the X-Aligned Dataset and second one is the Orientation Aware dataset but YOLO will only support the X-Aligned dataset. We will discuss both datasets one by one.
 
-## X-Aligned Dataset
+## 1) X-Aligned Dataset
 
 This dataset consist of total 7800 images of weapons. 
 
