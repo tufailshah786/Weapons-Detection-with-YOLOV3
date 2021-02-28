@@ -15,13 +15,13 @@ All the files are provided for the implementation of YOLOV3. You can see the sys
 When we say something about the configuration file we have set the batch size and subdivision equal to 64, width and height are equal to 416 momentum equal to 0.9, learning rate is equal to 0.001, max batches are equal to 4000 and steps are in between 3200 to 3600. The chart of our training model is given below:<br/>
 
 
-<img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/chart_yolov3.png" width="700" height="700"><br/><br/>
+<img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/chart_yolov3.png" width="600" height="600"><br/><br/>
 
 
 When you will see that the setup is ready then replace the YOLOV3 weights by our trained weights and you will get the results of detecting weapons like this:<br/> 
 
 
-<img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/g2.png" width="500" height="500"><br/><br/>
+<img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/g2.png" width="700" height="700"><br/><br/>
 
 You can test the image by using the following command:<br/>
 
