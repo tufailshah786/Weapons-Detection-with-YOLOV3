@@ -24,6 +24,7 @@ When you will see that the setup is ready then replace the YOLOV3 weights by our
 <img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/g2.png" width="700" height="700"><br/><br/>
 
 You can test the image by using the following command:<br/>
+
 `darknet.exe detector test cfg/weapon.data cfg/yolov3.cfg backup/yolov3_final.weights data/pistol1.jpg`
 
 
