@@ -25,6 +25,6 @@ When you will see that the setup is ready then replace the YOLOV3 weights by our
 
 You can test the image by using the following command:<br/>
 
-`darknet.exe detector test cfg/weapon.data cfg/yolov3.cfg backup/yolov3_final.weights data/pistol1.jpg`
+`darknet.exe detector test cfg/weapon.data cfg/yolov3.cfg data/yolov3_final.weights data/pistol1.jpg`
 
 
