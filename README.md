@@ -33,6 +33,5 @@ we have prepared the dataset in two variants. First one is the X-Aligned Dataset
 
 ## 1) X-Aligned Dataset
 
-This dataset consist of total 7800 images of weapons. 
-
+This dataset consist of total 7800 images of weapons. There are two classes included in our dataset one is "Gun" and other is "Pistol". Dataset contain total 5512 instances of "Gun" and 3739 instances of "Pistol"
 
