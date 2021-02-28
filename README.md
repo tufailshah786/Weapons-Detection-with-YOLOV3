@@ -41,3 +41,12 @@ In YOLO labeling format, a `.txt` file with the same name is created for each im
 
 `<object-class> <x> <y> <width> <height>`
 
+For each object, a new line is created.
+
+Below is an example of annotation in YOLO format where the image contains two different objects.
+
+`0 45 55 29 67`
+`1 99 83 28 44`
+
+
+
