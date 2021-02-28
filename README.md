@@ -84,3 +84,9 @@ An object is marked as difficult when the object is considered difficult to reco
 #### bounding box:
 Axis-aligned rectangle specifying the extent of the object visible in the image.
 
+### III. Faster R-CNN Format
+The information of Faster R-CNN annotation information is saved in the `.txt` file. Each row has the format like this: 
+```
+file_path,x1,y1,x2,y2,class_name
+
+ ```
