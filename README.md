@@ -184,5 +184,9 @@ The XML file is generated through this tool which is shown below:
 
 <img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/angle-oriented.png" width="400" height="500"><br/><br/>
 
+Where <strong>(Cx,Cy)</strong> represent the centre point of the Bounding Box, <strong>"W"</strong> and <strong>"H"</strong> represent the width and height of the bounding box, and <strong>"Angle"</strong> represent the rotation of the Bounding Box
+ 
+
+
 
 
