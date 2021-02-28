@@ -55,7 +55,8 @@ The files will be shown like this:
 <img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/yolo.png" width="900" height="500"><br/><br/>
 
 ### II. Pascal-VOC Format
-Pascal-VOC is an XML file, in Pascal-VOC we create a file for each of the image in the dataset. Pascal VOC Bounding box:(xmin-top left, ymin-top left,xmax-bottom right, ymax-bottom right).
+Pascal-VOC is an XML file, in Pascal-VOC we create a file for each of the image in the dataset. 
+<strong>Pascal VOC Bounding box:(xmin-top left, ymin-top left,xmax-bottom right, ymax-bottom right).</strong>
 
 <img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/pascal.png" width="300" height="500"><br/><br/>
 
