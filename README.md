@@ -5,7 +5,7 @@ Weapons Detection in very important task in surveillance system to improve the s
 - Skeleton Detection<br/>
 
 We implement the state of the art algorithm YOLOV3 for the detection of weapons.<br/>
-<img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/network.png" width="1500" height="300"><br/>
+<img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/network.png" width="1200" height="300"><br/>
 <p align="center">
 <strong>Basic YOLO Network Architecture</strong>
 </p>
