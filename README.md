@@ -9,5 +9,5 @@ We implement the state of the art algorithm YOLOV3 for the detection of weapons.
 <p align="center">
 <strong>Basic YOLO Network Architecture<strong>
 </p>
-# Implementation Details:
-  All the files are provided for the imple mentation of YOLOV3. 
+# Implementation Details
+All the files are provided for the imple mentation of YOLOV3. 
