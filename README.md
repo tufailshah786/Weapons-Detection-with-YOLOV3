@@ -35,5 +35,5 @@ we have prepared the dataset in two variants. First one is the X-Aligned Dataset
 
 This dataset consist of total 7800 images of weapons. There are two classes included in our dataset one is "Gun" and other is "Pistol". The given Dataset contain total 5512 instances of "Gun" and 3739 instances of "Pistol". We have prepared the different formats of this dataset because each model have its own format of data for training. So the formats of different models are given below:
 
-### YOLO Format
+* YOLO Format
 
