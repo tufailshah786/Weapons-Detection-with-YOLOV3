@@ -52,7 +52,7 @@ Below is an example of annotation in YOLO format where the image contains two di
  
 The files will be shown like this:
 
-<img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/yolo.png" width="700" height="700"><br/><br/>
+<img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/yolo.png" width="700" height="500"><br/><br/>
 
 
 
