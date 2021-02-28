@@ -59,3 +59,26 @@ Pascal-VOC is an XML file, in Pascal-VOC we create a file for each of the image 
 
 <img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/pascal.png" width="300" height="500"><br/><br/>
 
+Some of the key tags for Pascal VOC are explained below:
+#### Folder:
+Folder that contains the images
+#### Filename:
+Name of the physical file that exists in the folder
+#### Size:
+Contain the size of the image in terms of width, height and depth. If the image is black and white then the depth will be 1. For color images, depth will be 3
+#### Object:
+Contains the object details. If you have multiple annotations then the object tag with its contents is repeated. The components of the object tags are
+* name
+* pose
+* truncated
+* difficult
+* bndbox
+#### name:
+This is the name of the object that we are trying to identify
+#### truncated:
+Indicates that the bounding box specified for the object does not correspond to the full extent of the object. For example, if an object is visible partially in the image then we set truncated to 1. If the object is fully visible then set truncated to 0
+#### difficult:
+An object is marked as difficult when the object is considered difficult to recognize. If the object is difficult to recognize then we set difficult to 1 else set it to 0
+#### bounding box:
+Axis-aligned rectangle specifying the extent of the object visible in the image.
+
