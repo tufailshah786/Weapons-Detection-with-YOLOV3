@@ -37,3 +37,7 @@ This dataset consist of total 7800 images of weapons. There are two classes incl
 
 ### YOLO Format
 
+In YOLO labeling format, a `.txt` file with the same name is created for each image file in the same directory. Each `.txt` file contains the annotations for the corresponding image file, that is object class, object coordinates, height and width.
+
+`<object-class> <x> <y> <width> <height>`
+
