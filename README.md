@@ -27,4 +27,12 @@ You can test the image by using the following command:<br/>
 
 `darknet.exe detector test cfg/weapon.data cfg/yolov3.cfg data/yolov3_final.weights data/pistol1.jpg`
 
+# Dataset Details
+
+we have prepared the dataset in two variants. First one is the X-Aligned Dataset and second one is the Orientation Aware dataset but YOLO will only support the X-Aligned dataset. We will discuss both datasets one by one.
+
+## X-Aligned Dataset
+
+This dataset consist of total 7800 images of weapons. 
+
 
