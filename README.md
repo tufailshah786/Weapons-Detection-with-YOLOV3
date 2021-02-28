@@ -21,7 +21,7 @@ When we say something about the configuration file we have set the batch size an
 When you will see that the setup is ready then replace the YOLOV3 weights by our trained weights and you will get the results of detecting weapons like this:<br/> 
 
 
-<img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/g2.png" width="700" height="700"><br/><br/>
+<img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/g2.png" width="600" height="600"><br/><br/>
 
 You can test the image by using the following command:<br/>
 
