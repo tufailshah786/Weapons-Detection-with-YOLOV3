@@ -63,7 +63,7 @@ Pascal-VOC is an XML file, in Pascal-VOC we create a file for each of the image 
 
 <strong>Pascal VOC Bounding box:(xmin-top left, ymin-top left,xmax-bottom right, ymax-bottom right).</strong>
 
-<img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/pascal.png" width="300" height="500"><br/><br/>
+<img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/pascal.png" width="400" height="500"><br/><br/>
 
 Some of the key tags for Pascal VOC are explained below:
 #### Folder:
