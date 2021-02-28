@@ -91,3 +91,7 @@ file_path,x1,y1,x2,y2,class_name
 
  ```
  Where file_path is the absolute file path for this image, (x1,y1) and (x2,y2) represent the top left and bottom right real coordinates of the original image, class_name is the class name of the current bounding box.
+
+The information will be saved like this in the `.txt` file:
+
+img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/faster_txt.png" width="300" height="500"><br/><br/>
