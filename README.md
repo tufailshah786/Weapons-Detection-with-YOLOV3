@@ -49,6 +49,10 @@ Below is an example of annotation in YOLO format where the image contains two di
 0 45 55 29 67
 1 99 83 28 44
  ```
+ 
+The files will be shown like this:
+
+<img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/yolo.png" width="700" height="700"><br/><br/>
 
 
 
