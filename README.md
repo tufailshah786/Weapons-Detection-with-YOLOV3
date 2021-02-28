@@ -34,6 +34,7 @@ we have prepared the dataset in two variants. First one is the X-Aligned Dataset
 ## 1) X-Aligned Dataset
 
 This dataset consist of total 7800 images of weapons. There are two classes included in our dataset one is "Gun" and other is "Pistol". The given Dataset contain total 5512 instances of "Gun" and 3739 instances of "Pistol". We have prepared the different formats of this dataset because each model have its own format of data for training. 
+
 The <strong>LabelImg</strong> tool is used for the annotation file. You can see the tool [HERE](https://github.com/tzutalin/labelImg).
 
 The formats of different models are given below:
@@ -177,5 +178,6 @@ main()
 
 ## 1) Angle-Oriented Dataset
 This dataset consist of total 6400 images of weapons. There are two classes included in our dataset one is "Gun" and other is "Pistol". The given Dataset contain total 4983 instances of "Gun" and 4031 instances of "Pistol". We have also prepared the different formats of this dataset because each model have its own format of data for training.
+
 The <strong>LabelImg</strong> tool is used for the annotation file. You can see the tool [HERE](https://github.com/cgvict/roLabelImg).
 
