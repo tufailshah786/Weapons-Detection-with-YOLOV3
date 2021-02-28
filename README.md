@@ -96,7 +96,7 @@ The information will be saved like this in the `.txt` file:
 
 <img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/faster_txt.png" width="500" height="500"><br/><br/>
 
-To generate the train.txt file you should create the Train folder in the same directory and save the dataset images in this folder and then by running the following Python script you will get the train.txt file in the directory.
+<strong>To generate the train.txt file you should create the Train folder in the same directory and save the training images in this folder and then by running the following Python script you will get the train.txt file in the directory.
 ```
 import os
 import glob
@@ -133,3 +133,4 @@ def main():
 main()
 
  ```
+To generate the test.txt file you should create the Test folder in the same directory and save the test images in this folder and then by running the following Python script you will get the train.txt file in the directory.
