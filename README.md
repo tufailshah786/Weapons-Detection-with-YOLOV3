@@ -11,5 +11,5 @@ We implement the state of the art algorithm YOLOV3 for the detection of weapons.
 </p>
   
 # Implementation Details
-All the files are provided for the implementation of YOLOV3. You can see the system setup of yolov3 [HERE](https://youtube/wBtiGTToVEE)
+All the files are provided for the implementation of YOLOV3. You can see the system setup of yolov3 [HERE](https://youtu.be/wBtiGTToVEE)
 
