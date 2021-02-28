@@ -11,5 +11,5 @@ We implement the state of the art algorithm YOLOV3 for the detection of weapons.
 </p>
   
 # Implementation Details
-All the files are provided for the implementation of YOLOV3. You can see the system setup of yolov3 [HERE](https://youtu.be/wBtiGTToVEE).This will provide the complete information that how to setup the darknet and how to run the YOLO model. To test the YOLOV3 model which is trained on dataset of weapons you can download the weights from [HERE](https://drive.google.com/drive/folders/1HtQZOXMrpM5VvhoiC70vqO7-BCGRGXvW)
+All the files are provided for the implementation of YOLOV3. You can see the system setup of yolov3 [HERE](https://youtu.be/wBtiGTToVEE).This will provide the complete information that how to setup the darknet and how to run the YOLO model. To test the YOLOV3 model which is trained on dataset of weapons you can download the weights from [HERE](https://drive.google.com/drive/folders/1HtQZOXMrpM5VvhoiC70vqO7-BCGRGXvW) 
 
