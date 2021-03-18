@@ -56,7 +56,7 @@ Below is an example of annotation in YOLO format where the image contains two di
  
 The files will be shown like this:
 
-<img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/yolo.png" width="900" height="500"><br/><br/>
+<img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/yolo1.png" width="900" height="500"><br/><br/>
 
 ### II. Pascal-VOC Format
 Pascal-VOC is an XML file, in Pascal-VOC we create a file for each of the image in the dataset. 
